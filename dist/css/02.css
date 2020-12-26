@@ -1,0 +1,8 @@
+div {
+  color: red; }
+
+.div {
+  color: palegreen;
+  color: palegreen; }
+  .div:hover {
+    color: orange; }

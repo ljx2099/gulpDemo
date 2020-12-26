@@ -1,0 +1,11 @@
+$color:red;
+div{
+    color: $color;
+}
+.div{
+    &:hover{
+        color: orange;
+    }
+    color: palegreen;
+    color: palegreen;
+}
